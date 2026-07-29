@@ -1,7 +1,7 @@
 <img src="./images/ascii-animation.gif" alt="Freedom" />
 
 # About Me:
-Working to do the hardest things possible.
+Just keep building, Just keep building.
 
 
 ## 🌐 Socials:
